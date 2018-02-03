@@ -1,14 +1,22 @@
 git add => adiciona conteúdo ao git, ex: git add <nome-arquivo ou nome-pasta>
+
 git status => verifica o status do repositório apresentando se algum arquivo foi
   alterado
+
 git commit -m => cria commmit com uma mensagem descrevendo sua modificação, ex:
   git commit -m "descrição da alteração"
+
 git push origin <branch> => sobe para o git o commit realizado, ex para master:
   git push origin master, caso a origem seja outra alterar de <master> para a
   sua <origem>
+
 git init => inicializa um diretório como git
+
 git remote add origin => setar a origin de um repositório para um destino no git
   ex git remote add origin https://github.com/michelle08082015/curso-front-end.git
+
 git checkout -b => cria uma branch, ex: git checkout -b minha-branch
+
 git checkout <nome-branch> => entrar em uma branch, ex: git checkout master
+
 git diff => lista as alterações realizadas em cada arquivo
