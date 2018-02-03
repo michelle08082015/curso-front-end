@@ -1,0 +1,16 @@
+cd => entrar em um diretório, exemplo cd <nome-diretório>
+cd .. => sair do diretório
+mkdir => criar diretório, exemplo mkdir <nome-diretório>
+ls -la => listar conteúdo do diretório, ex: ls -la;
+touch => criar arquivos, ex: touch arquivo.<extensão/txt/js/html>
+pwd => mostra a localização do diretório atual, ex pwd
+rm => exclui arquivos e diretórios, ex: rm <nome-diretório ou nome_arquivo>
+mv => move arquivos ou diretórios, ex: mv <pasta-origem> <pasta-destino>
+find => localiza arquivos em diretórios pelo nome, ex: find <diretório> -nome-
+  arquivo
+cp => copia arquivos, ex: cp <arquivo1 arquivo2>, se tiver dois arquivos com
+  mesmo nome ele irá substituir o primeiro e sobrescrever
+date => imprime a data
+cal => imprime calendário
+rwho => lista usuarios conectados a rede
+less => lê arquivo texto, ex: less <arquivo>
